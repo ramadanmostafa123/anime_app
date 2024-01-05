@@ -7,10 +7,12 @@ allowing users to easily find desired content.
 # 🎨 System Design 
  I used bloc .
 
-## Backend Services Integration
+## Backend Services Integration :
  -integration of API services for efficient performance.
  - **API Error Management**: handling of API errors to ensure application stability.
- - **User Interface Design**:
+
+   
+  ## User Interface Design :
 
 
  ## lOADIND STATE
